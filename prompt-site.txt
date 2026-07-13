@@ -1,0 +1,21 @@
+PROMPT 1: Atue como um Desenvolvedor Web Sênior e Designer UI/UX.
+Sua Tarefa: Crie o código completo de um site Institucional para uma uma loja de tecidos chamada 'Max Textil'.
+⚠️ REGRAS TÉCNICAS (Obrigatório):
+Entregue o resultado em UM ÚNICO ARQUIVO HTML.
+Todo o CSS (estilo) e JavaScript devem estar embutidos no mesmo arquivo.
+O site deve ser totalmente responsivo (Mobile-First).
+Design Visual:
+Cores: Use preto para o fundo como cor principal e verde para botões e destaques. Fundo branco e limpo.
+Estilo: Moderno, robusto, confiável. Use sombras suaves nos cards.
+Conteúdo e Seções:
+Header: Logo e Menu (Início, Serviços, Projetos, Contato) + Botão WhatsApp.
+Hero (Topo): Imagem de fundo tecidos (use placeholder do Unsplash), Título impactante 'Vestindo o Futuro com Moda e Qualidade' e botão 'Orçamento Grátis'.
+Serviços: 3 Cards detalhados (Tecidos, Vestuários, Fardamento Escolar).
+Diferenciais: Ícones mostrando 'Entrega no Prazo', 'Tecidos Premium', 'Moda Masculina'.
+Galeria: Grid com 4 fotos de Bermudas (placeholders).
+Footer: Rodapé escuro com links e direitos autorais.
+Escreva o código completo agora.
+
+-----------------------------------------------------
+PROMPT 2:  Por favor, converta todo esse projeto em um ÚNICO arquivo index.html com todo o CSS e Scripts embutidos. Me dê o código completo para eu copiar.
+------------------------------------------------------
